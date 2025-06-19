@@ -1,4 +1,4 @@
-/*Write a program to accept 2 numbers as input from the user. Print the 2 numbers such that the second number is 17 width spaces away from the first.
+/*Write a program to accept 2 numbers as input from the user. Print the 2 numbers such that the second number is 19 width spaces away from the first.
 
 Input Format
 
